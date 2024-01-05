@@ -1,33 +1,33 @@
 {
   "RepositoryName": "Tools4cydia",
-  "RepositoryDescription": "Personal Themes Only",
+  "RepositoryDescription": "https://twitter.com/tools4cydia",
   "RepositoryAuthor": "Tools4cydia",
   "RepositoryIcon": "https://tools4cydia.github.io/Tools4cydia-misaka/gifFile.gif",
-  "RepositoryWebsite": "https://check0ver.com",
+  "RepositoryWebsite": "https://twitter.com/tools4cydia",
   "Default": {
 		"HeaderImage": "https://tools4cydia.github.io/Tools4cydia-misaka/gifFile.gif",
 		"ViewCount": true
 	},
   "RepositoryContents": [
     {
-      "Name": "Juicy",
-      "Description": "Icon Pack by 7GA78",
+      "Name": "Tools4hack",
+      "Description": "hack by Tools4cydia",
 	  "MinIOSVersion": "15.0",
-	  "MaxIOSVersion": "16.6.1",
+	  "MaxIOSVersion": "17.0",
       "Author": {
-        "Label": "7GA78",
+        "Label": "1029T",
         "Links": [
           {
-            "Label": "7GA78",
-            "Link": "https://x.com/7GA78"
+            "Label": "1029T",
+            "Link": "https://twitter.com/tools4cydia"
           },
           
         ]
       },
       "Icon": "https://check0ver.com/img/Juicy1.png",
       "HeaderImage": "https://tools4cydia.github.io/Tools4cydia-misaka/buy.png",
-      "Category": "Themes",
-      "Caption": "Icon Pack by 7GA78.",
+      "Category": "Buy-hack",
+      "Caption": "Opening non-free packages and increasing money within games. Simply press buy and then cancel purchase. Money is added within the game or purchased from within.",
       "Screenshot": [
         "https://check0ver.com/img/Juicy.png"
       ],
@@ -39,7 +39,7 @@
         },
         
       ],
-      "PackageID": "com.7GA78.Juicy"
+      "PackageID": "com.1029T.Tools4hack"
     }
   ]
 }
