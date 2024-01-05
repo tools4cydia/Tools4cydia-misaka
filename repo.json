@@ -2,47 +2,14 @@
   "RepositoryName": "Tools4cydia",
   "RepositoryDescription": "Personal Themes Only",
   "RepositoryAuthor": "Tools4cydia",
-  "RepositoryIcon": "https://check0ver.com/img/check.png",
+  "RepositoryIcon": "https://tools4cydia.github.io/Tools4cydia-misaka//toolsicon.mp4",
   "RepositoryWebsite": "https://check0ver.com",
   "Default": {
-		"HeaderImage": "https://check0ver.com/img/Header.png",
+		"HeaderImage": "https://tools4cydia.github.io/Tools4cydia-misaka/toolspng.jpeg",
 		"ViewCount": true
 	},
   "RepositoryContents": [
     {
-      "Name": "Dark Pearl",
-      "Description": "Icon Pack by UAE_AD1001",
-	  "MinIOSVersion": "15.0",
-	  "MaxIOSVersion": "16.6.1",
-      "Author": {
-        "Label": "UAE_AD1001",
-        "Links": [
-          {
-            "Label": "UAE_AD1001",
-            "Link": "https://x.com/UAE_AD1001"
-          },
-          
-        ]
-      },
-      "Icon": "https://check0ver.com/img/com.apple.Maps-large.png",
-      "HeaderImage": "https://check0ver.com/img/Header.png",
-      "Category": "Themes",
-      "Caption": "Icon Pack by UAE_AD1001.",
-      "Screenshot": [
-        "https://check0ver.com/img/DarkPearl.png"
-      ],
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Package": "https://check0ver.com/misaka/com.uae_ad1001.DarkPearl.misaka",
-          "Description": "First Themes"
-        },
-        
-      ],
-      "PackageID": "com.uae_ad1001.darkpearl"
-    },
-	{
-    
       "Name": "Juicy",
       "Description": "Icon Pack by 7GA78",
 	  "MinIOSVersion": "15.0",
